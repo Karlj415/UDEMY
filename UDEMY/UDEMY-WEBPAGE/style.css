@@ -47,8 +47,30 @@ body {
     border-radius: 8px;
 }
 
+.plan__title {
+    color: #0e4f1f;
+}
+
+.plan--highlighted .plan__title {
+    color: #fff;
+}
+
+.plan__price {
+    color: #858585;
+}
+
+.plan--highlighted .plan__price {
+    color: #0e4f1f;
+}
+
 .plan__features {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.plan__feature {
+        margin: 8px 0;
 }
 
 .main-header {
