@@ -33,6 +33,11 @@ body {
     vertical-align: middle;
 }
 
+.plan:hover {
+    transform: translateY(-10px);
+}
+
+
 .plan--highlighted {
     background-color: #19b84c;
     color: #fff;
@@ -91,6 +96,8 @@ body {
     font-weight: bold;
 }
 
+
+
 .main-nav {
     display: inline-block;
     text-align: right;
@@ -120,7 +127,6 @@ body {
     font-weight: bold;
     border-bottom: 5px solid #fff;
 }
-
 
 .main-nav__item--cta a {
     color: white;
