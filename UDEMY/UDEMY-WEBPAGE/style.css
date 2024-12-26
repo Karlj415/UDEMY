@@ -69,6 +69,7 @@ body {
     padding: 0;
 }
 
+
 .plan__feature {
         margin: 8px 0;
 }
@@ -123,7 +124,7 @@ body {
 
 
 .main-nav__item--cta a {
-    color: white;
+    color: #fff;
     background-color: #ff1b68;
     padding: 6px 16px;
     border-radius: 8px;
