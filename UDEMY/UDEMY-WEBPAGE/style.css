@@ -1,11 +1,6 @@
-* {
-    box-sizing: border-box;
-}
 
-body {
-    font-family: 'Montserrat', sans-serif;
-    margin: 0;
-}
+
+/* once i understand flexbox better will change all of this */
 
 #product-overview {
     background: url("freedom.jpg");
@@ -31,6 +26,7 @@ body {
     display: inline-block;
     width: 30%;
     vertical-align: middle;
+    align-items: center;
 }
 
 .plan:hover {
@@ -64,6 +60,10 @@ body {
     color: #858585;
 }
 
+.plan--highlighted .plan__title {
+    color: #fff;
+}
+
 .plan--highlighted .plan__price {
     color: #0e4f1f;
 }
@@ -78,69 +78,44 @@ body {
         margin: 8px 0;
 }
 
-.main-header {
-    background-color: #2ddf5c;
-    padding: 8px 16px;
-    width: 100%;
+
+
+#key-features {
+    background-color: #ff1b68;
+    margin-top: 80px;
+    padding: 16px;
+}
+#key-features .section-title {
+    color: #fff;
+    margin: 32px;
 }
 
-.main-header > div {
-    display: inline-block;
-    vertical-align: middle;
-
-}
-
-.main-header__brand {
-    color: #0e4f1f;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-
-
-.main-nav {
-    display: inline-block;
-    text-align: right;
-    width: calc(100% - 74px);
-    vertical-align: middle;
-}
-
-.main-nav__items {
+.key-feature__list {
+    list-style: none;
     margin: 0;
     padding: 0;
-    list-style-type: none;
 }
 
-.main-nav__item {
+.key-feature {
     display: inline-block;
-    margin: 0 16px;
-}
-
-.main-nav__anchor {
-    text-decoration: none;
-    color: #0e4f1f;
-}
-
-.main-nav__anchor:hover,
-    .main-nav__anchor:active {
-    color: #fff;
     font-weight: bold;
-    border-bottom: 5px solid #fff;
+    color: #fff;
+    width: 30%;
+    vertical-align: top;
 }
 
-.main-nav__item--cta a {
-    color: white;
-    background-color: #ff1b68;
-    padding: 6px 16px;
-    border-radius: 8px;
+.key-feature__image {
+    background: #ffcede;
+    width: 128px;
+    border: 2px solid #424242;
+    border-radius: 50%;
+    height: 128px;
+    margin: 0 auto;
 }
 
-.main-nav__item--cta a:hover,
-.main-nav__item--cta a:active {
-    color: #ff1b68;
-    background: #fff;
-    border: none;
+.key-feature__description {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    font-size: 20px;
 }
-
-
-/*testing for git/github*/
