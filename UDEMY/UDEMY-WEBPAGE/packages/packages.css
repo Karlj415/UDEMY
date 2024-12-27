@@ -1,4 +1,5 @@
-
+html {
+}
 .package-container {
     margin-top: 32px;
 }
@@ -27,10 +28,24 @@
     float: right;
     text-align: right;
 }
+#free:hover {
+    transform: translateX(-10px);
+    transition: ease .3s;
+    background: lightblue;
+}
 
 #premium {
     background-color: rgba(14, 79, 31, 0.75);
 }
+
+#plus:hover {
+    background-color: lightsalmon;
+}
+
+#premium:hover {
+    background: lightsalmon;
+}
+
 
 .package-plan__link {
     text-decoration: none;
@@ -60,8 +75,9 @@
 .package-plan:active {
     border-color: #ff5454;
     transform: translateX(10px);
-    transition: transform .2s;
+    transition: transform .3s;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    background: lightsalmon;
 }
 
 #premium {
@@ -73,5 +89,5 @@
 }
 
 .premium-plan__header2 {
-    color: #bbb;
+    color: #000;
 }
