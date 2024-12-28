@@ -1,5 +1,15 @@
-html {
+main {
+    padding-top: 16px;
 }
+
+.background {
+    background: url("../images/plans-background.jpg") center/cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
 .package-container {
     margin-top: 32px;
 }
