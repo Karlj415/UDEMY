@@ -18,11 +18,12 @@ main {
     border: 4px solid #0e4f1f;
     margin: 30px 0;
     width: 80%;
-    height: 300px;
+    height: 350px;
     /*
     Took this out to add transform/make it look better
     border-left: none
     ;*/
+    position: relative;
 }
 
 .clearfix {
@@ -64,6 +65,17 @@ main {
     padding: 32px;
 }
 
+.package__badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+    font-size: 12px;
+    color: #fff;
+    background: #ff5454;
+    padding: 8px;
+}
+
 .package-plan__header {
     color: #000;
     font-family: sans-serif;
@@ -79,6 +91,7 @@ main {
     padding: 16px;
     background: #fff;
     font-size: 20px;
+
 }
 
 .package-plan:hover,
