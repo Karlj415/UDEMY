@@ -24,8 +24,8 @@ main {
     border-left: none
     ;*/
     position: relative;
+    transition: transform .3s ease-out;
 }
-/*  something odd going on */
 .clearfix {
     clear: both;
 }
@@ -41,7 +41,7 @@ main {
 }
 #free:hover {
     transform: translateX(-10px);
-    transition: ease .3s;
+    transition: transform ease-in-out .3s, background .3s ease-out;
     background: lightblue;
 }
 
@@ -98,7 +98,8 @@ main {
 .package-plan:active {
     border-color: #ff5454;
     transform: translateX(10px);
-    transition: transform .3s;
+    transition: transform  .3s ease-in-out, background .3s ease-out;
+
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     background: lightsalmon;
 }
