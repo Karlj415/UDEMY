@@ -46,7 +46,7 @@ main {
 }
 
 #premium {
-    background-color: rgba(14, 79, 31, 0.75);
+    background-color: rgba(123, 241, 105, 0.75);
 }
 
 #plus:hover {
@@ -74,6 +74,7 @@ main {
     color: #fff;
     background: #ff5454;
     padding: 8px;
+    z-index: 10;
 }
 
 .package-plan__header {
@@ -104,14 +105,11 @@ main {
     background: lightsalmon;
 }
 
-#premium {
-    background: #0e4f1f;
-}
 
 .premium-plan__header {
-    color: #fff;
+    color: #000;
 }
 
 .premium-plan__header2 {
-    color: #000;
+    color: #725f5f;
 }
