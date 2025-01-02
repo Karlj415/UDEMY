@@ -17,8 +17,8 @@
 #product-overview h1 {
     color: #fff;
     font-family: "Anton", serif;
-    position: relative;
-    top: 85%;
+    position: absolute;
+    bottom: 0;
     left: 3%;
 }
 
