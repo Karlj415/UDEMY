@@ -20,10 +20,6 @@ main {
     margin: 1.8rem 0.2rem;
     width: 60%;
     height: 21.8rem;
-    /*
-    Took this out to add transform/make it look better
-    border-left: none
-    ;*/
     position: relative;
     transition: transform .3s ease-out;
 }
@@ -71,7 +67,7 @@ main {
     top: 0;
     right: 0;
     margin: 1.2rem;
-    font-size: 0.7rem;
+    font-size: 12px;
     color: #fff;
     background: #ff5454;
     padding: 0.5rem;
