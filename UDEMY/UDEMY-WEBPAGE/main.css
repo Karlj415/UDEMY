@@ -7,12 +7,12 @@
     background-position: left 10% bottom 20%; */
   /* background-repeat: no-repeat;
     background-origin: border-box;
-    background-clip: border-box; */
+    background-clip: border-bqqqqqox; */
   /* background-image: linear-gradient(180deg, red 70%, blue 60%, rgba(0,0,0,0.5)); */
   /* background-image: radial-gradient(ellipse farthest-corner at 20% 50%, red, blue 70%, green); */
   width: 100vw;
   height: 33vh;
-  margin-top: 2.75rem;
+  margin-top: 4.75rem;
   /* border: 5px dashed red; */
   position: relative;
 }
@@ -37,13 +37,21 @@
 }
 
 .plan {
-  background: #d5ffdc;
+  background: #b8bcfc;
   text-align: center;
   padding: 1rem;
   margin: 0.5rem;
   display: inline-block;
   width: 30%;
   vertical-align: middle;
+  transition: ease-out .3s;
+}
+
+.plan:hover {
+    transform: translateY(-10px);
+    transition: ease-in .3s;
+  background: #59f3f3;
+  color: #000;
 }
 
 .plan--highlighted {
@@ -60,6 +68,7 @@
   border-radius: 8px;
 }
 
+
 .plan__title {
   color: #0e4f1f;
 }
@@ -69,7 +78,7 @@
 }
 
 .plan--highlighted .plan__title {
-  color: white;
+  color: #050505;
 }
 
 .plan--highlighted .plan__price {

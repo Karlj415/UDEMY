@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1b4f419-1521-4f3f-b1fe-f724eb904882" name="Changes" comment="Upgrade to CSS Images&#10;&#10;Learning about image/background image customization">
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/packages.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/packages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/shared.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Karlj415&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Karlj415/UDEMY.git&quot;,
+    &quot;accountId&quot;: &quot;96047d1b-6cd2-4ae3-99f3-1fe8cf381c3a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2qmXAB8yst9zn5k52zECVs09gYs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b4f419-1521-4f3f-b1fe-f724eb904882" name="Changes" comment="" />
+      <created>1735268585206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735268585206</updated>
+      <workItem from="1735268591428" duration="142000" />
+      <workItem from="1735308218324" duration="2471000" />
+      <workItem from="1735328102852" duration="9377000" />
+      <workItem from="1735417772822" duration="5684000" />
+      <workItem from="1735473632570" duration="207000" />
+      <workItem from="1735474038929" duration="1975000" />
+      <workItem from="1735477004336" duration="82000" />
+      <workItem from="1735477142318" duration="175000" />
+      <workItem from="1735477369096" duration="162000" />
+      <workItem from="1735482542965" duration="599000" />
+      <workItem from="1735575593361" duration="9200000" />
+      <workItem from="1735668450944" duration="1498000" />
+      <workItem from="1735919126712" duration="237000" />
+      <workItem from="1735919519179" duration="56000" />
+      <workItem from="1735919606075" duration="7263000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final&#10;&#10;finish boilerplate for packages html">
+      <option name="closed" value="true" />
+      <created>1735328157913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735328157914</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upgrade to CSS&#10;&#10;Learned about position: absolute; and added it. Will continue making tweaks as I learn more">
+      <option name="closed" value="true" />
+      <created>1735436964759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735436964759</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upgrade to CSS&#10;&#10;Learned about position: absolute; and added it. Will continue making tweaks as I learn more">
+      <option name="closed" value="true" />
+      <created>1735438203504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735438203504</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upgrade to CSS&#10;&#10;Learned about position: absolute; and added it. Will continue making tweaks as I learn more">
+      <option name="closed" value="true" />
+      <created>1735438282454</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735438282454</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upgrade to CSS Images&#10;&#10;Learning about image/background image customization">
+      <option name="closed" value="true" />
+      <created>1735608744104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735608744104</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final&#10;&#10;finish boilerplate for packages html" />
+    <MESSAGE value="Upgrade to CSS&#10;&#10;Learned about position: absolute; and added it. Will continue making tweaks as I learn more" />
+    <MESSAGE value="Upgrade to CSS Images&#10;&#10;Learning about image/background image customization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upgrade to CSS Images&#10;&#10;Learning about image/background image customization" />
+  </component>
+</project>
