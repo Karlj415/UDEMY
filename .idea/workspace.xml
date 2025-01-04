@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1b4f419-1521-4f3f-b1fe-f724eb904882" name="Changes" comment="Upgrade to CSS Images&#10;&#10;Learning about image/background image customization">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/customers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/customers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/packages.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/packages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/shared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/UDEMY-WEBPAGE/packages/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,10 @@
       <workItem from="1735919126712" duration="237000" />
       <workItem from="1735919519179" duration="56000" />
       <workItem from="1735919606075" duration="7263000" />
+      <workItem from="1735961257843" duration="20000" />
+      <workItem from="1735961283388" duration="584000" />
+      <workItem from="1735962308781" duration="4971000" />
+      <workItem from="1736001621683" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="Final&#10;&#10;finish boilerplate for packages html">
       <option name="closed" value="true" />
