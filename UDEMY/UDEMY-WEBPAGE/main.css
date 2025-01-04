@@ -46,7 +46,7 @@
   vertical-align: middle;
   transition: ease-out .3s;
 }
-
+/* issues with git for some reason*/
 .plan:hover {
     transform: translateY(-10px);
     transition: ease-in .3s;
