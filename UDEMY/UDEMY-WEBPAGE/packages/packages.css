@@ -63,7 +63,7 @@ main {
 }
 
 #plus {
-    background: rgba(128, 210, 142, 0.95);
+    background: rgba(103, 248, 192, 0.904);
 }
 
 #free {
@@ -80,7 +80,8 @@ main {
 }
 
 #premium {
-    background: rgba(73, 162, 97, 0.95);
+    background: rgba(103, 248, 192, 0.904);
+
 }
 
 /*#premium .package__title {*/
