@@ -28,7 +28,7 @@ body {
   z-index: 1;
 }
 
-.main-header > div {
+.main-header>div {
   display: inline-block;
   vertical-align: middle;
 }
@@ -198,5 +198,5 @@ body {
 }
 
 .open {
-    display: block !important;
+  display: block !important;
 }
