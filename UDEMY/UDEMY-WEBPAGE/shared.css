@@ -29,9 +29,13 @@ body {
   z-index: 1;
 }
 
+<<<<<<< HEAD
 
 
 .main-header > div {
+=======
+.main-header>div {
+>>>>>>> d15faae42444fec359f1ba5615ea21ed6ae6389e
   display: inline-block;
   vertical-align: middle;
 }
@@ -235,5 +239,5 @@ body {
 }
 
 .open {
-    display: block !important;
+  display: block !important;
 }
