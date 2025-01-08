@@ -16,6 +16,8 @@
     position: relative;
 }
 
+/* weird things happening with git */
+
 #product-overview h1 {
     color: white;
     font-family: "Anton", sans-serif;
@@ -45,20 +47,19 @@
     transition: ease-out .3s;
 }
 
-<<<<<<< HEAD
 /* issues with git for some reason*/
 .plan:hover {
   transform: translateY(-10px);
   transition: ease-in .3s;
   background: #59f3f3;
   color: #000;
-=======
+}
+
 .plan:hover {
     transform: translateY(-10px);
     transition: ease-in .3s;
     background: #59f3f3;
     color: #000;
->>>>>>> refs/remotes/origin/main
 }
 
 .plan--highlighted {
