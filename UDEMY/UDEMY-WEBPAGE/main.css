@@ -11,7 +11,7 @@
     /* background-image: radial-gradient(ellipse farthest-corner at 20% 50%, red, blue 70%, green); */
     width: 100vw;
     height: 33vh;
-    margin-top: 4.75rem;
+    margin-top: 3.75rem;
     /* border: 5px dashed red; */
     position: relative;
 }
@@ -45,11 +45,20 @@
     transition: ease-out .3s;
 }
 
+<<<<<<< HEAD
+/* issues with git for some reason*/
+.plan:hover {
+  transform: translateY(-10px);
+  transition: ease-in .3s;
+  background: #59f3f3;
+  color: #000;
+=======
 .plan:hover {
     transform: translateY(-10px);
     transition: ease-in .3s;
     background: #59f3f3;
     color: #000;
+>>>>>>> refs/remotes/origin/main
 }
 
 .plan--highlighted {
@@ -224,6 +233,8 @@
     .key-feature {
     display: inline-block;
     width: 30%;
+    max-width: 25rem;
     vertical-align: top;
     }
 }
+
